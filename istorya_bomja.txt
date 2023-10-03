@@ -1,0 +1,85 @@
+    1  #!/bin/bash -li
+    2  cd /ide/xterm || exit
+    3  exec /ide/xterm/bin/node /ide/xterm/index.cjs "$@"
+    4  cd
+    5  out
+    6  out is
+    7  out ist
+    8  .-..--.-.-..---..--.--..-
+    9  cd
+   10  iiiiiiiiiiiiiiiiiiiiiiiiiii
+   11  shutdown -h now
+   12  sudo shutdown -h
+   13  ls -al
+   14  nano bebra.txt
+   15  less bebra.txt 
+   16  св
+   17  cd
+   18  sudo su -
+   19  git init
+   20  ls -la
+   21  rm .git
+   22  rm -r .git
+   23  mkdir konez
+   24  cd konez/
+   25  git init
+   26  touch user1.txt
+   27  touch user2.txt
+   28  touch user3.txt
+   29  git add .
+   30  git commit -m "added base files"
+   31  git config --global user.email 
+   32  git config --global user.email "bebro"
+   33  git config --global user.email
+   34  git config --global user.email  "kee.ukue@yandex.ru"
+   35  git config --global user.name
+   36  git config --global user.name "raz"
+   37  git config --global user.name "razy podguznik"
+   38  git config --global user.name
+   39  [A
+   40  git config --global user.name "raz"
+   41  git log --oneline
+   42  git log -p
+   43  git log
+   44  git show 2de5b1009f7c6f69d1a946d4cc970561199dfd10
+   45  cd kon
+   46  ls -la
+   47  cd
+   48  cd konez/
+   49  cd 
+   50  cd konez/
+   51  echo orecho
+   52  git diff
+   53  dit diff
+   54  git diff
+   55  touch news.txt
+   56  add .
+   57  git add .
+   58  git commit -m "dosada"
+   59  cd
+   60  mkdir pustoy
+   61  cd pustoy/
+   62  git init
+   63  git remote add origin https://github.com/sadadscasd/pustoy.git
+   64  git push -u origin master
+   65  git add .
+   66  git commit -m "yes"
+   67  touch test1.txt
+   68  touch test2.txt
+   69  touch test3.txt
+   70  touch test4.txt
+   71  git add .
+   72  git commit -m "added 4 users' files"
+   73  touch userq.txt
+   74  touch user1.txt
+   75  touch user2.txt
+   76  touch user3.txt
+   77  touch user4.txt
+   78  git add .
+   79  git commit -m "added 4 test files"
+   80  git push origin master
+   81  cd
+   82  cd pustoy/
+   83  echo kirill tajik
+   84  history
+   85  history > istorya_bomja.txt
